@@ -1,0 +1,13 @@
+#photo-container {
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    width: 120px;
+    height: 40px;
+    border-radius: 12px;
+    background-color: cadetblue;
+}
